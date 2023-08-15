@@ -114,7 +114,7 @@ This section will mainly focus on your ability to make use of an automated data 
 
 The following actions need to be taken to complete the assessments in this section:
 
-- [ ] Submit Notebook (./Task3_automatic_data_quality_testing/Data_deequ_tests_student_version.ipynb)
+- [ ] Submit Notebook ([./Task3_automatic_data_quality_testing/Data_deequ_tests_student_version.ipynb](https://github.com/Nell254/Processing-Big-Data/blob/9cc1e9de3eaf3146ddeeac2dd0997a125e8425bc/Task3_automatic_data_quality_testing/Data_deequ_tests_student_version.ipynb))
 
 ---
 
