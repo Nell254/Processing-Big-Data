@@ -63,7 +63,7 @@ This section is mainly concerned with the setup and ingestion of the dataset;
 
 The following actions need to be taken to complete the assessments in this section:
 
-- [ ] Submit Notebook([Solution](https://github.com/Nell254/Processing-Big-Data/blob/70b566fa7a3f94bc158fdd3e9a875ce83bc44969/Task1_data_ingestion/Data_ingestion_student_version.ipynb))
+- [ ] Submit Notebook ([Solution](https://github.com/Nell254/Processing-Big-Data/blob/70b566fa7a3f94bc158fdd3e9a875ce83bc44969/Task1_data_ingestion/Data_ingestion_student_version.ipynb))
 
 ## Task 2
 
@@ -94,8 +94,8 @@ This section mainly focuses on transformations required to address the data qual
 
 The following actions need to be taken to complete the assessments in this section:
 
-- [ ] Submit Notebook ([./Task2_data_profiling/Data_profiling_student_version.ipynb](https://github.com/Nell254/Processing-Big-Data/blob/8cd3dcb31ffcd5fec5bf0c61bfe63c43fd443e40/Task2_data_profiling/Data_profiling_student_version.ipynb))
-- [ ] Submit `csv` output file ([./Task2_data_profiling/nelson_mwembe_data_profiling.csv](https://github.com/Nell254/Processing-Big-Data/blob/7b86120e65f973495d586e5ae22ba8ce54376ace/Task2_data_profiling/nelson_mwembe_data_profiling.csv))
+- [ ] Submit Notebook ([Solution](https://github.com/Nell254/Processing-Big-Data/blob/8cd3dcb31ffcd5fec5bf0c61bfe63c43fd443e40/Task2_data_profiling/Data_profiling_student_version.ipynb))
+- [ ] Submit `csv` output file ([Solution](https://github.com/Nell254/Processing-Big-Data/blob/7b86120e65f973495d586e5ae22ba8ce54376ace/Task2_data_profiling/nelson_mwembe_data_profiling.csv))
 
 
 ## Task 3
@@ -116,7 +116,7 @@ This section will mainly focus on your ability to make use of an automated data 
 
 The following actions need to be taken to complete the assessments in this section:
 
-- [ ] Submit Notebook ([./Task3_automatic_data_quality_testing/Data_deequ_tests_student_version.ipynb](https://github.com/Nell254/Processing-Big-Data/blob/9cc1e9de3eaf3146ddeeac2dd0997a125e8425bc/Task3_automatic_data_quality_testing/Data_deequ_tests_student_version.ipynb))
+- [ ] Submit Notebook ([Solution](https://github.com/Nell254/Processing-Big-Data/blob/9cc1e9de3eaf3146ddeeac2dd0997a125e8425bc/Task3_automatic_data_quality_testing/Data_deequ_tests_student_version.ipynb))
 
 ---
 
