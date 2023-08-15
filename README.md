@@ -1,4 +1,6 @@
 # Processing Big Data Predict
+Completing this predict was a requirement for successfully finishing Explore AI's Data Engineering course and earning the Data Engineer certification.
+
 ## Predict overview
 
 You are part of a small dynamic team of Data Scientists trying to create the latest and greatest automated stock market trading robots. You assume the role of a Data Engineer and is responsible for ensuring that the Data Science team has access to high-quality training datasets.
