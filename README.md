@@ -1,12 +1,4 @@
 # Processing Big Data Predict
-© Explore Data Science Academy
-
-## Student Instructions 👩‍🏫️
-This predict contains multiple notebooks that you will be required to update in order to arrive at your solution. To successfully complete this predict you will need to:
- 1. log in to your Github account;
- 2. [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repo to create your own remote copy; and
- 3. clone the forked repo on your account so you can work with the files locally on your machine.
-
 ## Predict overview
 
 You are part of a small dynamic team of Data Scientists trying to create the latest and greatest automated stock market trading robots. You assume the role of a Data Engineer and is responsible for ensuring that the Data Science team has access to high-quality training datasets.
@@ -65,17 +57,11 @@ At the end of this task, your notebook should be able to produce parquet files f
 
 
 ### **Assessment** ⏰️
-This section is mainly concerned with the setup and ingestion of the dataset; you will be assessed using multiple-choice questions.
+This section is mainly concerned with the setup and ingestion of the dataset;
 
 The following actions need to be taken to complete the assessments in this section:
 
-- [ ] Submit Notebook
-- [ ] Complete Data Ingestion MCQ
-
-### **Resources** 📕️
-The below resource should be used to complete the work found in this section:
-
-- [Data ingestion notebook](./Task1_data_ingestion/Data_ingestion_student_version.ipynb)
+- [ ] Submit Notebook (./Task1_data_ingestion/Data_ingestion_student_version.ipynb)
 
 ## Task 2
 
@@ -102,19 +88,12 @@ At the end of this task, you will be required to produce a `csv` file of all the
 
 
 ### **Assessment** ⏰️
-This section mainly focuses on transformations required to address the data quality issues found in the dataset. The `csv` file produced will be used to auto-grade your work. You will also be required to complete an MCQ.
+This section mainly focuses on transformations required to address the data quality issues found in the dataset. The `csv` file produced will be used to auto-grade your work.
 
 The following actions need to be taken to complete the assessments in this section:
 
-- [ ] Submit Notebook
-- [ ] Submit `csv` output file
-- [ ] Complete Data Profiling MCQ
-
-### **Resources** 📕️
-The below resource should be used to complete the work found in this section:
-
-- [Data profiling notebook](./Task2_data_profiling/Data_profiling_student_version.ipynb)
-
+- [ ] Submit Notebook (./Task2_data_profiling/Data_profiling_student_version.ipynb)
+- [ ] Submit `csv` output file (./Task2_data_profiling/nelson_mwembe_data_profiling.csv)
 
 
 ## Task 3
@@ -131,27 +110,13 @@ In this section, you will be required to set up a generic process on which you c
 
 ### **Assessment** ⏰️
 
-This section will mainly focus on your ability to make use of an automated data testing tool. You will revisit the six dimensions of data quality using [Deequ](https://github.com/awslabs/deequ).
+This section will mainly focus on your ability to make use of an automated data testing tool. Revisit the six dimensions of data quality using [Deequ](https://github.com/awslabs/deequ).
 
 The following actions need to be taken to complete the assessments in this section:
 
-- [ ] Submit Notebook
-- [ ] Complete Data Testing MCQ
-
-
-### **Resources** 📕️
-The below resource should be used to complete the work found in this section:
-
-- [Deequ data testing notebook](./Task3_automatic_data_quality_testing/Data_deequ_tests_student_version.ipynb)
-
+- [ ] Submit Notebook (./Task3_automatic_data_quality_testing/Data_deequ_tests_student_version.ipynb)
 
 ---
-
-## FAQ ❓
-
-This section of the repo will be periodically updated to represent common questions that may arise around its use. If you detect any problems/bugs, please [create an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), and we will do our best to resolve it as quickly as possible.
-
-We wish you all the best in your learning experience 🚀!
 
 <p align='center'>
      <img src="https://raw.githubusercontent.com/Explore-AI/Pictures/master/EDSA_logo.png"
