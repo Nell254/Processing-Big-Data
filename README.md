@@ -61,7 +61,7 @@ This section is mainly concerned with the setup and ingestion of the dataset;
 
 The following actions need to be taken to complete the assessments in this section:
 
-- [ ] Submit Notebook ([./Task1_data_ingestion/Data_ingestion_student_version.ipynb](https://github.com/Nell254/Processing-Big-Data/blob/70b566fa7a3f94bc158fdd3e9a875ce83bc44969/Task1_data_ingestion/Data_ingestion_student_version.ipynb))
+- [ ] Submit Notebook([./Task1_data_ingestion/Data_ingestion_student_version.ipynb](https://github.com/Nell254/Processing-Big-Data/blob/70b566fa7a3f94bc158fdd3e9a875ce83bc44969/Task1_data_ingestion/Data_ingestion_student_version.ipynb))
 
 ## Task 2
 
