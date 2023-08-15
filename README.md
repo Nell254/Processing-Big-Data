@@ -92,7 +92,7 @@ This section mainly focuses on transformations required to address the data qual
 
 The following actions need to be taken to complete the assessments in this section:
 
-- [ ] Submit Notebook (./Task2_data_profiling/Data_profiling_student_version.ipynb)
+- [ ] Submit Notebook ([./Task2_data_profiling/Data_profiling_student_version.ipynb](https://github.com/Nell254/Processing-Big-Data/blob/8cd3dcb31ffcd5fec5bf0c61bfe63c43fd443e40/Task2_data_profiling/Data_profiling_student_version.ipynb))
 - [ ] Submit `csv` output file (./Task2_data_profiling/nelson_mwembe_data_profiling.csv)
 
 
