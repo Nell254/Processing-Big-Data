@@ -1,5 +1,5 @@
 # Processing Big Data Predict
-Completing this predict was a requirement for successfully finishing Explore AI's Data Engineering course and earning the Data Engineer certification.
+Completing this predict was one of the requirements for successfully finishing Explore AI's Data Engineering course and earning the Data Engineer certification.
 
 ## Predict overview
 
